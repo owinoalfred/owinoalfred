@@ -2,8 +2,7 @@
 <h3 align="center">A passionate computer scientist/software engineer/ full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owinoalfred&label=Profile%20views&color=0e75b6&style=flat" alt="owinoalfred" /> </p>
-![tumblr_mtw0ojDUCQ1ru39xmo1_500](https://user-images.githubusercontent.com/59254825/229221234-71d068cd-32db-485b-8d5e-7964bfc8a5e0.gif)
-![Uploading R.gif…]()
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owinoalfred" alt="owinoalfred" /></a> </p>
 
